@@ -55,7 +55,7 @@ print(str(name) + " is " + str(kilos(lb)) + " kilos.")
 # In[7]:
 
 
-name = "BRIAN" 
+name = "BRIANz" 
 height_m = 1.62
 weight_kg = 81.7
 

@@ -12,7 +12,7 @@ reset = "\033[0;0m"
 
 print(bold + "Meters to Centimeters Calculator" + reset)
 
-m = 1.78
+m = 100000000
 
 print(centimeters(m))
     
